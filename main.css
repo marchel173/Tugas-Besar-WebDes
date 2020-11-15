@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Home page for Hiking Community Indonesia">
+    <meta name="author" content="Adithia, Arene, Marchel, Thomas">
+    <title>Home</title> 
+    <link rel="stylesheet" href="css/indexCss.css">
+    <link rel="stylesheet" href="css/mainCss.css">
+</head>
+<body>   
+    <div class="img">
+        <img src="images/mountain1.jpg" alt="mountain1">
+    </div>
+    <div class="container">
+        <div class="satu">1</div>
+        <div class="dua">2</div>
+        <div class="tiga">3</div>
+        <div class="empat">4</div>
+    </div>
+</body>
+</html>
